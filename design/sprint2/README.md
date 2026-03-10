@@ -1,1 +1,1 @@
-Sprint 2: Finalise the designs for each page in the application prototype
+Sprint 2: Design mockups/detailed UI for each page in the application prototype
